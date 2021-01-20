@@ -51,3 +51,10 @@ let zakhary = Person {
   },
 };
 ```
+
+### GitHub Stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zakharykaplan&layout=compact&count_private=true&show_icons=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakharykaplan&layout=compact"/>
+</p>
